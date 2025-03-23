@@ -1,1 +1,1 @@
-Este arquivo é uma legenda não oficial de fãs e portanto a sua comercialização, venda e lucro é estritamente proibida nos termos das leis de direitos autorais do Brasil que é onde os membros da EFS residem, e a devida punição do uso indevido desse conteúdo cabe exclusivamente a detentora legal deste conteúdo aplicando de acordo com a legislação residente ao pais do réu e sua proporcionalidade de sua legislação local e o seu tratado internacional de diretos autorais nos países que o residem. 
+
