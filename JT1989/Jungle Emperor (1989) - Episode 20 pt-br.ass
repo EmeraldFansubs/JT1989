@@ -15,10 +15,10 @@ Audio File: ../Filmes e Series/JT1989/[Inka-Subs] Jungle Emperor (1989) 01-52 [E
 Video File: ../Filmes e Series/JT1989/[Inka-Subs] Jungle Emperor (1989) 01-52 [END]/[Inka-Subs] Jungle Emperor (1989) - Episode 20v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 218
-Active Line: 226
-Video Position: 27058
+Video Zoom Percent: 0.875000
+Scroll Position: 262
+Active Line: 266
+Video Position: 33663
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,50 +27,45 @@ Style: Episode Title,@FOT-Seurat Pro EB,48,&H00EFDDDD,&H000000FF,&H00ABBEC0,&H00
 Style: OP/ED,@FOT-Seurat Pro EB,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,90.4084,100,0,0,1,0,0,2,18,18,4,1
 Style: Credits,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,90.4084,100,0,0,1,2.00837,2.00837,2,9,9,10,1
 Style: Narrow BRABO,Arial Narrow,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.1,1.9,2,11,11,10,1
+Style: Karaokê Impact,Ink Free,45,&H00FFFFFF,&H32919194,&H2B47081B,&H36000000,-1,0,0,0,90,90,0,0,1,2,0.2,2,11,11,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,OP/ED,,0,0,0,,{OP Start}
-Comment: 0,0:00:05.40,0:00:08.78,Default,,0,0,0,,{removed old TS as it looked wonk af in retrospect}{\fade(250,250)}''Jungle Emperor"
-Comment: 0,0:01:10.88,0:01:10.93,OP/ED,,0,0,0,,{OP End}
-Comment: 0,0:23:21.92,0:23:21.96,OP/ED,,0,0,0,,{ED Start}
-Comment: 0,0:24:37.46,0:24:37.50,OP/ED,,0,0,0,,{ED End}
-Dialogue: 0,0:00:12.87,0:00:16.87,OP/ED,,0,0,0,,{\blur0.504\pos(392.023,175.732)}Original Work:
-Dialogue: 0,0:00:12.87,0:00:16.87,OP/ED,,0,0,0,,{\blur0.504\pos(419.373,256.067)}Osamu Tezuka{probs the only sign I'll be doing in the OP - as rest are hella cluttered}
-Dialogue: 0,0:00:12.20,0:00:17.62,OP/ED,,0,0,20,,{\an8\blur0.504} hashire motto kaze no mukou he
-Dialogue: 0,0:00:12.20,0:00:17.62,OP/ED,,0,0,0,,{\blur0.504}Run as fast as you can into the wind!
-Dialogue: 0,0:00:17.87,0:00:24.13,OP/ED,,0,0,20,,{\an8\blur0.504}chiheisen wa kimi wo yonderu
-Dialogue: 0,0:00:17.87,0:00:24.13,OP/ED,,0,0,0,,{\blur0.504}The horizon is calling you!
-Dialogue: 0,0:00:25.26,0:00:31.55,OP/ED,,0,0,20,,{\an8\blur0.504}hateshinai daichi ni umareta hi kara
-Dialogue: 0,0:00:25.26,0:00:31.55,OP/ED,,0,0,0,,{\blur0.504}Ever since you were born in this endless land,
-Dialogue: 0,0:00:31.89,0:00:38.69,OP/ED,,0,0,20,,{\an8\blur0.504}ikiru koto wa sousa bouken
-Dialogue: 0,0:00:31.89,0:00:38.69,OP/ED,,0,0,0,,{\blur0.504}your life has been one big adventure!
-Dialogue: 0,0:00:38.81,0:00:45.40,OP/ED,,0,0,10,,{\an8\blur0.504}tabidate reo sabanna koete
-Dialogue: 0,0:00:38.81,0:00:45.40,OP/ED,,0,0,0,,{\blur0.504}Embark on a journey, Leo, beyond the savanna!
-Dialogue: 0,0:00:45.73,0:00:51.78,OP/ED,,0,0,20,,{\an8\blur0.504}tatakau tabi kitto tsuyoku nareru
-Dialogue: 0,0:00:45.73,0:00:51.78,OP/ED,,0,0,0,,{\blur0.504}Struggling on your journey will make you stronger.
-Dialogue: 0,0:00:52.03,0:00:57.87,OP/ED,,0,0,20,,{\an8\blur0.504}saa reo kokoro wo moyase ima
-Dialogue: 0,0:00:52.03,0:00:57.87,OP/ED,,0,0,0,,{\blur0.504}Come on, Leo, set your heart ablaze!
-Dialogue: 0,0:00:58.20,0:01:01.33,OP/ED,,0,0,20,,{\an8\blur0.504}sagashiteita jibun ni
-Dialogue: 0,0:00:58.20,0:01:01.33,OP/ED,,0,0,0,,{\blur0.504}Keep searching for the real you,
-Dialogue: 0,0:01:01.33,0:01:07.01,OP/ED,,0,0,10,,{\an8\blur0.504}deau hi made yukunda
-Dialogue: 0,0:01:01.33,0:01:07.01,OP/ED,,0,0,0,,{\blur0.504} until the day you meet!
-Dialogue: 0,0:23:27.59,0:23:36.19,OP/ED,,50,0,20,,{\an7\blur0.504}boy meguriaete yokatta
-Dialogue: 0,0:23:27.59,0:23:36.19,OP/ED,,50,0,5,,{\an1\blur0.504}Boy, am I glad we met.
-Dialogue: 0,0:23:37.06,0:23:40.57,OP/ED,,0,0,20,,{\blur0.504\c&HF5F4DB&\\pos(503.16,366.48)}@InkaSubs
-Dialogue: 0,0:23:37.06,0:23:45.78,OP/ED,,33,0,20,,{\an7\blur0.504}boy konna hiroi sekai de
-Dialogue: 0,0:23:37.06,0:23:45.78,OP/ED,,50,0,5,,{\an1\blur0.504}Boy, in this vast world,
-Dialogue: 0,0:23:46.03,0:23:50.70,OP/ED,,36,0,20,,{\an7\blur0.504}kimi to ikiru ichinichi wa
-Dialogue: 0,0:23:46.03,0:23:50.70,OP/ED,,0,0,5,,{\an1\blur0.504}a single day spent living with you,
-Dialogue: 0,0:23:50.99,0:23:58.71,OP/ED,,0,0,20,,{\an7\blur0.504}kitto asu mo\N kirameku hazu nano
-Dialogue: 0,0:23:50.99,0:23:58.71,OP/ED,,0,0,5,,{\an1\blur0.504}should make tomorrow shine bright as well.
-Dialogue: 0,0:23:59.88,0:24:09.80,OP/ED,,0,0,20,,{\an7\blur0.504}ima orenji iro no hi\N ga shizumu kara
-Dialogue: 0,0:23:59.88,0:24:09.80,OP/ED,,0,0,5,,{\an1\blur0.504}Right now, because the orange sun is setting,
-Dialogue: 0,0:24:10.01,0:24:18.69,OP/ED,,0,0,20,,{\an7\blur0.504}futari no shiruetto\N yuubae ni nare
-Dialogue: 0,0:24:10.01,0:24:18.69,OP/ED,,0,0,5,,{\an1\blur0.504}our silhouettes glow in the sunset.
-Dialogue: 0,0:24:26.15,0:24:36.25,OP/ED,,0,0,20,,{\an7\blur0.504}mabushii yuubae ni nare
-Dialogue: 0,0:24:26.15,0:24:36.25,OP/ED,,0,0,5,,{\an1\blur0.504} How brightly they glow in the sunset...
-Dialogue: 0,0:02:24.24,0:02:26.73,Default,,0,0,0,,I'm going back\N to Panja's Jungle.
+Dialogue: 0,0:00:12.24,0:00:17.66,Karaokê Impact,,0,0,20,,{\k2}{\an7\fscx64\fscy70} {\k26}ha{\k21}shi{\k41}re{\k0} {\k74}mo{\k80}tto{\k8} {\k23}ka{\k25}ze{\k0} {\k16}no{\k2} {\k23}mu{\k40}ko{\k25}u{\k1} {\k135}he{\k0}
+Dialogue: 0,0:00:12.24,0:00:17.66,Narrow BRABO,,0,0,0,,{\an7\fscx64\fscy70}Corra o mais rápido possível contra o vento!
+Dialogue: 0,0:00:17.91,0:00:24.17,Karaokê Impact,,0,0,20,,{\k40}{\an7\fscx64\fscy70}chi{\k18}he{\k76}i{\k67}sen{\k1} {\k67}wa{\k16} {\k51}ki{\k25}mi{\k5} {\k28}wo{\k0} {\k18}yo{\k34}n{\k20}de{\k160}ru{\k0}
+Dialogue: 0,0:00:17.91,0:00:24.17,Narrow BRABO,,0,0,0,,{\an7\fscx64\fscy70}{\blur0.5}O Horizonte está o chamando-o
+Dialogue: 0,0:00:25.30,0:00:31.59,Karaokê Impact,,0,0,20,,{\k21}{\an7\fscx64\fscy70}{\an8\blur0.504}ha{\k18}te{\k40}shi{\k24}na{\k21}i{\k1} {\k24}da{\k31}i{\k27}chi{\k1} {\k111}ni{\k1} {\k17}u{\k20}ma{\k42}re{\k35}ta{\k0} {\k40}hi{\k3} {\k36}ka{\k116}ra{\k0}
+Dialogue: 0,0:00:25.30,0:00:31.59,Narrow BRABO,,0,0,0,,{\an7\fscx64\fscy70}Desde que tu nasceu nesta terra sem fim
+Dialogue: 0,0:00:31.93,0:00:38.73,Karaokê Impact,,0,0,20,,{\k43}{\an7\fscx64\fscy70}{\an8\blur0.504}i{\k24}ki{\k32}ru{\k0} {\k13}ko{\k26}to{\k1} {\k16}wa{\k2} {\k49}so{\k32}u{\k77}sa{\k0} {\k45}bo{\k65}u{\k50}ke{\k205}n{\k0}
+Dialogue: 0,0:00:31.93,0:00:38.73,Narrow BRABO,,0,0,0,,{\an7\fscx64\fscy70}Sua vida será uma grande aventura!
+Dialogue: 0,0:00:38.85,0:00:45.44,Karaokê Impact,,0,0,20,,{\k30}{\an7\fscx64\fscy70}{\an8\blur0.504}ta{\k44}bi{\k61}da{\k64}te{\k0} {\k105}reo{\k10} {\k13}sa{\k19}ba{\k24}n{\k17}na{\k1} {\k24}ko{\k40}e{\k207}te{\k0}
+Dialogue: 0,0:00:38.85,0:00:45.44,Narrow BRABO,,0,0,0,,{\an7\fscx64\fscy70}Embarque, Leo, para além da savana!
+Dialogue: 0,0:00:45.78,0:00:51.82,Karaokê Impact,,0,0,20,,{\k31}{\an7\fscx64\fscy70}{\an8\blur0.504}ta{\k19}ta{\k14}ka{\k34}u{\k2} {\k25}ta{\k29}bi{\k2} {\k57}ki{\k104}tto{\k3} {\k31}tsu{\k19}yo{\k21}ku{\k3} {\k48}na{\k24}re{\k138}ru{\k0}
+Dialogue: 0,0:00:45.78,0:00:51.82,Narrow BRABO,,0,0,0,,{\an7\fscx64\fscy70}As dificuldades de sua jornada o tornarão mais forte.
+Dialogue: 0,0:00:52.07,0:00:57.91,Karaokê Impact,,0,0,20,,{\k37}{\an7\fscx64\fscy70}{\an8\blur0.504}sa{\k73}a{\k7} {\k105}reo {\k31}ko{\k21}ko{\k25}ro{\k2} {\k17}wo{\k0} {\k31}mo{\k19}ya{\k61}se{\k0} {\k25}i{\k130}ma{\k0}
+Dialogue: 0,0:00:52.07,0:00:57.91,Narrow BRABO,,0,0,0,,{\an7\fscx64\fscy70}Vai, Leo, coloque o seu coração em chamas!
+Dialogue: 0,0:00:58.25,0:01:01.37,Karaokê Impact,,0,0,20,,{\k30}{\an7\fscx64\fscy70}{\an8\blur0.504}sa{\k14}ga{\k25}shi{\k39}te{\k20}i{\k34}ta{\k4} {\k26}ji{\k27}bu{\k13}n{\k3} {\k77}ni{\k0}
+Dialogue: 0,0:00:58.25,0:01:01.37,Narrow BRABO,,0,0,0,,{\an7\fscx64\fscy70}Continue a busca do seu verdadeiro eu
+Dialogue: 0,0:01:01.37,0:01:07.05,Karaokê Impact,,0,0,20,,{\k38}{\an7\fscx64\fscy70}{\an8\blur0.504}de{\k36}au{\k0} {\k51}hi{\k0} {\k21}ma{\k60}de{\k24} {\k29}yu{\k25}ku{\k27}n{\k257}da{\k0}
+Dialogue: 0,0:01:01.37,0:01:07.05,Narrow BRABO,,0,0,20,,{\an7\fscx64\fscy70}Até o dia que se encontrarem!
+Dialogue: 0,0:23:27.59,0:23:36.19,Karaokê Impact,,0,0,20,,{\k0}{\k117}{\an7\fscx64\fscy70}boy{\k19} {\k32}me{\k34}gu{\k27}ri{\k77}a{\k31}e{\k210}te{\k39} {\k38}yo{\k40}ka{\k196}tta{\k0}
+Dialogue: 0,0:23:27.59,0:23:36.19,Narrow BRABO,,0,0,20,,{\fscx64\fscy70\an7\}Que bom nos conhercemos
+Dialogue: 0,0:23:37.06,0:23:40.57,Narrow BRABO,,0,0,20,,{\fs29\pos(475.83,378.1)}Script Original: @InkaSubs
+Dialogue: 0,0:23:37.06,0:23:40.57,Narrow BRABO,,0,0,20,,{\fs22\pos(475.79,403.49)}Tradução PT-BR: @EmeraldFansubs
+Dialogue: 0,0:23:37.06,0:23:45.78,Karaokê Impact,,0,0,20,,{\k0}{\k109}{\an7\fscx64\fscy70\}boy{\k21} {\k27}ko{\k28}n{\k31}na{\k0} {\k55}hi{\k62}ro{\k211}i{\k37} {\k37}se{\k35}ka{\k48}i{\k1} {\k170}de{\k0}
+Dialogue: 0,0:23:37.06,0:23:45.78,Narrow BRABO,,0,0,20,,{\an7\fscx64\fscy70\}Nesse mundo vasto
+Dialogue: 0,0:23:46.03,0:23:50.70,Karaokê Impact,,0,0,20,,{\an7\fscx64\fscy70\}{\k0}{\k27}ki{\k31}mi{\k2} {\k22}to{\k0} {\k26}i{\k27}ki{\k99}ru{\k2} {\k12}i{\k19}chi{\k38}ni{\k26}chi{\k1} {\k135}wa{\k0}
+Dialogue: 0,0:23:46.03,0:23:50.70,Narrow BRABO,,0,0,20,,{\an7\fscx64\fscy70\}Um único dia contigo
+Dialogue: 0,0:23:50.99,0:23:58.71,Karaokê Impact,,0,0,20,,{\an7\fscx64\fscy70\}{\k0}{\k50}{\an7\blur0.504}ki{\k71}tto{\k0} {\k14}a{\k21}su{\k0} {\k51}mo{\k0} {\k42}ki{\k29}ra{\k30}me{\k24}ku{\k2} {\k64}ha{\k48}zu{\k3} {\k30}na{\k293}no{\k0}
+Dialogue: 0,0:23:50.99,0:23:58.71,Narrow BRABO,,0,0,20,,{\an7\fscx64\fscy70\}Fará um amanhã mais brilhante.
+Dialogue: 0,0:23:59.88,0:24:09.80,Karaokê Impact,,0,0,20,,{\k0}{\k59}{\an7\fscx64\fscy70\}i{\k42}ma{\k66} {\k58}o{\k31}re{\k36}n{\k49}ji{\k3} {\k56}i{\k50}ro{\k0} {\k63}no{\k1} {\k37}hi{\k2} {\k81}ga{\k2} {\k90}shi{\k26}zu{\k59}mu{\k2} {\k40}ka{\k139}ra{\k0}
+Dialogue: 0,0:23:59.88,0:24:09.80,Narrow BRABO,,0,0,20,,{\an7\fscx64\fscy70\}Neste momento, o sol está se pondo.
+Dialogue: 0,0:24:10.01,0:24:18.69,Karaokê Impact,,0,0,20,,{\k0}{\k41}{\an7\fscx64\fscy70\}fu{\k27}ta{\k42}ri{\k2} {\k90}no{\k1} {\k67}shi{\k32}ru{\k121}etto{\k26} {\k37}yu{\k26}u{\k21}ba{\k26}e{\k4} {\k29}ni{\k0} {\k59}na{\k217}re{\k0}
+Dialogue: 0,0:24:10.01,0:24:18.69,Narrow BRABO,,0,0,20,,{\an7\fscx64\fscy70\}E Nossas silhuetas brilham no pôr do sol
+Dialogue: 0,0:24:26.15,0:24:36.25,Karaokê Impact,,0,0,20,,{\k14}{\an7\fscx64\fscy70\}ma{\k44}bu{\k23}shi{\k270}i{\k91} {\k32}yu{\k17}u{\k68}ba{\k52}e{\k0} {\k43}ni{\k0} {\k76}na{\k280}re{\k0}
+Dialogue: 0,0:24:26.15,0:24:36.25,Narrow BRABO,,0,0,20,,{\an7\fscx64\fscy70\fade(0,500)}O quão brilhante é o pôr do sol
+Dialogue: 0,0:02:24.24,0:02:26.73,Narrow BRABO,,0,0,0,,Eu voltarei para a\N Selva do Panja.
 Dialogue: 0,0:02:34.30,0:02:39.30,Narrow BRABO,,0,0,0,,{\blur0.5\fs36\pos(175,110)}{\fade(1000,500)\c&HEFECF0&}Episódio 20
 Dialogue: 0,0:02:34.30,0:02:39.30,Narrow BRABO,,0,0,0,,{\blur0.5\fs72\pos(310,394)}{\fade(1000,500)\\c&HEFECF0&}O Líder
 Dialogue: 0,0:02:54.95,0:02:58.24,Narrow BRABO,,0,0,0,,O que eu {\i1}estava{\i0} pensando?
@@ -99,15 +94,15 @@ Dialogue: 0,0:04:44.32,0:04:45.72,Narrow BRABO,,0,0,0,,Panja é o meu pai.
 Dialogue: 0,0:04:45.72,0:04:48.05,Narrow BRABO,,0,0,0,,Foi o que eu pensei!
 Dialogue: 0,0:04:49.71,0:04:54.76,Narrow BRABO,,0,0,0,,{\fs37}Seu pelo branco me fez pensar que você poderia ser filho de Panja, e parece que eu estava certo!
 Dialogue: 0,0:04:55.46,0:04:57.07,Narrow BRABO,,0,0,0,,Você conheceu meu pai?
-Dialogue: 0,0:04:57.51,0:05:03.00,Narrow BRABO,,0,0,0,,I've never met him, but his\Nincredible legacy has traveled this far.
-Dialogue: 0,0:05:05.40,0:05:06.78,Narrow BRABO,,0,0,0,,The humans are coming!
+Dialogue: 0,0:04:57.51,0:05:03.00,Narrow BRABO,,0,0,0,,Nunca o conheci, mas é incrível que seu legado tenha chegado tão longe.
+Dialogue: 0,0:05:05.40,0:05:06.78,Narrow BRABO,,0,0,0,,Os humanos estão chegando!
 Dialogue: 0,0:05:08.05,0:05:11.09,Narrow BRABO,,0,0,0,,Vão! Todos para dentro da floresta, depressa!
 Dialogue: 0,0:05:20.21,0:05:22.11,Narrow BRABO,,0,0,0,,O Meu nome é Silver.
 Dialogue: 0,0:05:22.87,0:05:25.18,Narrow BRABO,,0,0,0,,Podemos conversar mais tarde, se quiser.
 Dialogue: 0,0:05:25.62,0:05:26.50,Narrow BRABO,,0,0,0,,Sim!
 Dialogue: 0,0:05:29.39,0:05:31.76,Narrow BRABO,,0,0,0,,Não tenham medo do leão.
 Dialogue: 0,0:05:31.76,0:05:33.76,Narrow BRABO,,0,0,0,,Vamos Giru e Garu.
-Dialogue: 0,0:05:48.72,0:05:54.73,Narrow BRABO,,0,0,0,,Ouvi rumores sobre o falecimento do grande Panja, mas me recusei a acreditar.
+Dialogue: 0,0:05:48.72,0:05:54.73,Narrow BRABO,,0,0,0,,Ouvi rumores sobre o falecimento do grande Panja, mas eu me recusei a acreditar.
 Dialogue: 0,0:05:54.73,0:05:56.18,Narrow BRABO,,0,0,0,,Mas os rumores realmente\N são verdadeiros.
 Dialogue: 0,0:05:57.41,0:06:01.25,Narrow BRABO,,0,0,0,,A morte é uma parte inevitável da vida.\N Esse é o destino dos vivos.
 Dialogue: 0,0:06:01.94,0:06:05.24,Narrow BRABO,,0,0,0,,Ainda assim, gostaria de ter tido a chance de conhecê-lo antes de sua morte.
@@ -125,7 +120,7 @@ Dialogue: 0,0:06:45.55,0:06:48.93,Narrow BRABO,,0,0,0,,Mas a jornada me ensinou 
 Dialogue: 0,0:06:49.93,0:06:52.89,Narrow BRABO,,0,0,0,,E isso me ensinou o significado de lutar com sua vida em risco.
 Dialogue: 0,0:06:53.28,0:06:56.18,Narrow BRABO,,0,0,0,,Apesar de não ter conseguido formar um grupo,
 Dialogue: 0,0:06:56.18,0:06:58.48,Narrow BRABO,,0,0,0,,Acabei aprendendo algo sobre a Mãe Natureza.
-Dialogue: 0,0:07:00.87,0:07:04.45,Narrow BRABO,,0,0,0,,Tudo isso me fez perceber como meus amigos são importantes para mim.
+Dialogue: 0,0:07:00.87,0:07:04.45,Narrow BRABO,,0,0,0,,Tudo isso me fez perceber como meus amigos são importantes pra mim.
 Dialogue: 0,0:07:04.45,0:07:06.60,Narrow BRABO,,0,0,0,,Ele me chamou de volta para a selva do Panja.
 Dialogue: 0,0:07:06.60,0:07:10.92,Narrow BRABO,,0,0,0,,Sinto que estou diferente de quem eu era antigamente.
 Dialogue: 0,0:07:10.92,0:07:14.84,Narrow BRABO,,0,0,0,,E é por isso que quero voltar à Selva do Panja.
@@ -140,7 +135,7 @@ Dialogue: 0,0:07:52.66,0:07:56.84,Narrow BRABO,,0,0,0,,Vou procurar algumas baga
 Dialogue: 0,0:07:56.84,0:07:59.91,Narrow BRABO,,0,0,0,,Os caçadores ilegais podem estar em nosso caminho, mas...
 Dialogue: 0,0:07:59.91,0:08:02.26,Narrow BRABO,,0,0,0,,Por favor, deixe-me acompanhá-lo.
 Dialogue: 0,0:08:03.55,0:08:06.10,Narrow BRABO,,0,0,0,,Depressa! E fiquem de\N olho nas crianças!
-Dialogue: 0,0:08:08.62,0:08:11.48,Narrow BRABO,,0,0,0,,Mexa-se! Isso vale igualmente\N para você, Zeo!
+Dialogue: 0,0:08:08.62,0:08:11.48,Narrow BRABO,,0,0,0,,Mexam-se! Isso também\N vale para você, Zeo!
 Dialogue: 0,0:08:19.06,0:08:20.56,Narrow BRABO,,0,0,0,,Estou vendo eles!\N Parem o carro!
 Dialogue: 0,0:08:22.17,0:08:27.65,Narrow BRABO,,0,0,0,,Vejam! Uma tropa de gorilas da montanha! O gorila prateado é o líder deles, não é?
 Dialogue: 0,0:08:28.20,0:08:31.61,Narrow BRABO,,0,0,0,,Está vendo? Eu lhe disse que nós os encontraríamos eventualmente.
@@ -154,12 +149,12 @@ Dialogue: 0,0:09:00.85,0:09:02.49,Narrow BRABO,,0,0,0,,Estou falando de\N suas p
 Dialogue: 0,0:09:15.55,0:09:19.07,Narrow BRABO,,0,0,0,,Ficaremos aqui\N até o anoitecer.
 Dialogue: 0,0:09:19.58,0:09:21.88,Narrow BRABO,,0,0,0,,Alguém viu o Zeo?
 Dialogue: 0,0:09:21.88,0:09:25.84,Narrow BRABO,,0,0,0,,Não deveríamos tentar encontrar um lugar onde haja comida em vez disso?
-Dialogue: 0,0:09:25.84,0:09:29.30,Narrow BRABO,,0,0,0,,Somente a água não nos impedirá de morrer de fome. Podemos acabar presos aqui.
+Dialogue: 0,0:09:25.84,0:09:29.30,Narrow BRABO,,0,0,0,,Somente a água não vai impedir de morrer de fome. Podemos acabar presos aqui.
 Dialogue: 0,0:09:29.76,0:09:31.30,Narrow BRABO,,0,0,0,,Eu tomei minha decisão!
 Dialogue: 0,0:09:31.72,0:09:35.06,Narrow BRABO,,0,0,0,,Onde está o Zeo?\N Alguém o viu?
 Dialogue: 0,0:09:35.06,0:09:37.42,Narrow BRABO,,0,0,0,,Esse velho coitado\N só iria nos atrasar!
 Dialogue: 0,0:09:37.42,0:09:41.02,Narrow BRABO,,0,0,0,,Acho que ele ainda não chegou aqui.\N Talvez ele tenha morrido...
-Dialogue: 0,0:09:41.02,0:09:42.99,Narrow BRABO,,0,0,0,,Quer que eu o procure?
+Dialogue: 0,0:09:41.02,0:09:42.99,Narrow BRABO,,0,0,0,,Você quer que eu o procure?
 Dialogue: 0,0:09:43.36,0:09:46.90,Narrow BRABO,,0,0,0,,Isso é algo que o grupo deve resolver. Garu, vá procurá-lo.
 Dialogue: 0,0:09:46.90,0:09:48.42,Narrow BRABO,,0,0,0,,Não, obrigado.
 Dialogue: 0,0:09:48.42,0:09:50.45,Narrow BRABO,,0,0,0,,Você é o guia. Ele é de \N{\i1}sua{\i0} responsabilidade!
@@ -183,7 +178,7 @@ Dialogue: 0,0:10:38.18,0:10:39.82,Narrow BRABO,,0,0,0,,É verdade? O Zeo realmen
 Dialogue: 0,0:10:40.41,0:10:44.10,Narrow BRABO,,0,0,0,,O que isso tem a ver com o assunto?!\N Eu vou embora mesmo assim!
 Dialogue: 0,0:10:45.98,0:10:51.13,Narrow BRABO,,0,0,0,,{\fs38}Então, quem vem comigo? Vou levá-los a uma ilha cheia de deliciosas bagas de senecio!
 Dialogue: 0,0:10:58.52,0:11:00.04,Narrow BRABO,,0,0,0,,O que foi Giru?
-Dialogue: 0,0:11:01.13,0:11:02.24,Narrow BRABO,,0,0,0,,Muito bem!
+Dialogue: 0,0:11:01.13,0:11:02.24,Narrow BRABO,,0,0,0,,Beleza!
 Dialogue: 0,0:11:02.24,0:11:03.97,Narrow BRABO,,0,0,0,,Que seja do jeito que você quiser!
 Dialogue: 0,0:11:07.32,0:11:08.15,Narrow BRABO,,0,0,0,,Giru!
 Dialogue: 0,0:11:09.77,0:11:11.96,Narrow BRABO,,0,0,0,,Vá procurar o Zeo.
@@ -191,8 +186,8 @@ Dialogue: 0,0:11:15.20,0:11:16.87,Narrow BRABO,,0,0,0,,Zeo!
 Dialogue: 0,0:11:16.87,0:11:19.66,Narrow BRABO,,0,0,0,,Sinto muito. Fiquei cansado e tive que parar para descansar.
 Dialogue: 0,0:11:19.66,0:11:24.12,Narrow BRABO,,0,0,0,,Temos um pouco de água por aqui. Vá dormir um pouco, você merece.
 Dialogue: 0,0:11:26.96,0:11:28.17,Narrow BRABO,,0,0,0,,Giru, fique de guarda.
-Dialogue: 0,0:11:37.86,0:11:41.40,Narrow BRABO,,0,0,0,,Eles virão nesta direção. Veja, já tem um.
-Dialogue: 0,0:11:42.41,0:11:44.36,Narrow BRABO,,0,0,0,,Eu lhe disse que eles estariam vindo para cá, não disse?
+Dialogue: 0,0:11:37.86,0:11:41.40,Narrow BRABO,,0,0,0,,Eles virão nesta direção.\N Veja, já tem um.
+Dialogue: 0,0:11:42.41,0:11:44.36,Narrow BRABO,,0,0,0,,Eu disse que eles estariam vindo para cá, não é?
 Dialogue: 0,0:12:04.23,0:12:06.36,Narrow BRABO,,0,0,0,,Tenho certeza de que o Garu mudará de ideia.
 Dialogue: 0,0:12:06.97,0:12:10.79,Narrow BRABO,,0,0,0,,Ele deixou o grupo por vontade própria. Sua decisão não é de nosso interesse.
 Dialogue: 0,0:12:12.53,0:12:13.75,Narrow BRABO,,0,0,0,,Fique atento!
@@ -233,7 +228,7 @@ Dialogue: 0,0:15:20.90,0:15:25.12,Narrow BRABO,,0,0,0,,No momento, a segurança 
 Dialogue: 0,0:15:25.12,0:15:26.83,Narrow BRABO,,0,0,0,,Eles deverão esperar.
 Dialogue: 0,0:15:26.83,0:15:29.24,Narrow BRABO,,0,0,0,,Então, isso seja tarde demais!
 Dialogue: 0,0:15:29.24,0:15:31.46,Narrow BRABO,,0,0,0,,Você vai deixá-los morrer!
-Dialogue: 0,0:15:31.46,0:15:36.20,Narrow BRABO,,0,0,0,,Não! E, como eu disse, a segurança do grupo como um todo vem em primeiro lugar!
+Dialogue: 0,0:15:31.46,0:15:36.20,Narrow BRABO,,0,0,0,,Não! E como eu disse, a segurança do grupo como um todo vem em primeiro lugar!
 Dialogue: 0,0:15:38.05,0:15:40.25,Narrow BRABO,,0,0,0,,É uma decisão difícil,\N porém necessária.
 Dialogue: 0,0:15:41.29,0:15:46.88,Narrow BRABO,,0,0,0,,Silver! Pensei que você fosse alguém a ser admirado. Mas isso...
 Dialogue: 0,0:16:12.30,0:16:13.33,Narrow BRABO,,0,0,0,,Lá estão eles.
@@ -245,61 +240,61 @@ Dialogue: 0,0:16:25.58,0:16:30.05,Narrow BRABO,,0,0,0,,Eu nunca vou entender por
 Dialogue: 0,0:16:33.22,0:16:34.90,Narrow BRABO,,0,0,0,,Os filhotes estão em segurança.
 Dialogue: 0,0:16:34.90,0:16:36.81,Narrow BRABO,,0,0,0,,Mas como vou salvá-los?
 Dialogue: 0,0:17:08.84,0:17:10.18,Narrow BRABO,,0,0,0,,Muito bem, vamos trabalhar!
-Dialogue: 0,0:17:36.44,0:17:39.26,Narrow BRABO,,0,0,0,,Só mais um pouco, pois logo vai escurecer.
-Dialogue: 0,0:17:55.23,0:17:57.16,Narrow BRABO,,0,0,0,,Continue com o bom trabalho!
+Dialogue: 0,0:17:36.44,0:17:39.26,Narrow BRABO,,0,0,0,,Só mais um pouco, pois\N logo vai escurecer.
+Dialogue: 0,0:17:55.23,0:17:57.16,Narrow BRABO,,0,0,0,,Continue com\N o bom trabalho!
 Dialogue: 0,0:18:17.60,0:18:18.42,Narrow BRABO,,0,0,0,,Quem está aí?
 Dialogue: 0,0:18:19.48,0:18:20.55,Narrow BRABO,,0,0,0,,O que é isso?
 Dialogue: 0,0:18:20.55,0:18:21.85,Narrow BRABO,,0,0,0,,O que está acontecendo?
 Dialogue: 0,0:18:21.85,0:18:23.97,Narrow BRABO,,0,0,0,,Cuidado! Alguém atacou os guardas!
 Dialogue: 0,0:18:24.36,0:18:26.91,Narrow BRABO,,0,0,0,,Não se mova! Vou pegar uma lanterna!
 Dialogue: 0,0:18:30.60,0:18:31.76,Narrow BRABO,,0,0,0,,Isso é péssimo...
-Dialogue: 0,0:18:31.76,0:18:33.50,Narrow BRABO,,0,0,0,,Tem alguma coisa no meio das sombras!
-Dialogue: 0,0:18:41.42,0:18:43.96,Narrow BRABO,,0,0,0,,Aí está ele! Olhem! É um leão branco!
+Dialogue: 0,0:18:31.76,0:18:33.50,Narrow BRABO,,0,0,0,,Tem alguma coisa no\N meio das sombras!
+Dialogue: 0,0:18:41.42,0:18:43.96,Narrow BRABO,,0,0,0,,Aí está ele! Olhem!\N É um leão branco!
 Dialogue: 0,0:18:43.96,0:18:45.28,Narrow BRABO,,0,0,0,,É um leão branco?
 Dialogue: 0,0:18:45.28,0:18:47.92,Narrow BRABO,,0,0,0,,Não poderia estar aqui para libertar os macacos...
-Dialogue: 0,0:18:47.92,0:18:51.53,Narrow BRABO,,0,0,0,,How about it, Boss?\N Think of it as a bonus.
-Dialogue: 0,0:18:51.53,0:18:53.44,Narrow BRABO,,0,0,0,,Can't argue with that.
-Dialogue: 0,0:18:55.53,0:18:56.49,Narrow BRABO,,0,0,0,,What's that sound?!
-Dialogue: 0,0:18:56.84,0:18:58.64,Narrow BRABO,,0,0,0,,You're all here!
-Dialogue: 0,0:18:59.04,0:19:00.88,Narrow BRABO,,0,0,0,,That sounds like gorillas!{beating their chest}
-Dialogue: 0,0:19:01.49,0:19:03.38,Narrow BRABO,,0,0,0,,Th-They're on this side, too!
-Dialogue: 0,0:19:04.04,0:19:05.12,Narrow BRABO,,0,0,0,,And this side!
-Dialogue: 0,0:19:05.76,0:19:07.35,Narrow BRABO,,0,0,0,,We're surrounded!
-Dialogue: 0,0:19:07.35,0:19:08.32,Narrow BRABO,,0,0,0,,Calm down!
-Dialogue: 0,0:19:41.16,0:19:44.00,Narrow BRABO,,0,0,0,,Damn it, you kidding me?!\NI'll shoot every last one of 'em!
-Dialogue: 0,0:19:46.65,0:19:49.93,Narrow BRABO,,0,0,0,,Leave some alive!\N Or it'll be bad for business!
-Dialogue: 0,0:20:01.00,0:20:04.34,Narrow BRABO,,0,0,0,,Make it stop!\NI'm losing my mind!
-Dialogue: 0,0:20:05.05,0:20:06.16,Narrow BRABO,,0,0,0,,Now's my chance!
-Dialogue: 0,0:20:16.34,0:20:18.53,Narrow BRABO,,0,0,0,,Quickly! Shoot that white lion!
-Dialogue: 0,0:20:18.89,0:20:20.65,Narrow BRABO,,0,0,0,,Bring it on!
-Dialogue: 0,0:20:20.65,0:20:22.48,Narrow BRABO,,0,0,0,,Gimme that bonus!
+Dialogue: 0,0:18:47.92,0:18:51.53,Narrow BRABO,,0,0,0,,Que tal, chefe? Pense\N nisso como um bônus.
+Dialogue: 0,0:18:51.53,0:18:53.44,Narrow BRABO,,0,0,0,,Isso é indiscutível.
+Dialogue: 0,0:18:55.53,0:18:56.49,Narrow BRABO,,0,0,0,,O que é esse barulho?
+Dialogue: 0,0:18:56.84,0:18:58.64,Narrow BRABO,,0,0,0,,Todos vocês estão aqui!
+Dialogue: 0,0:18:59.04,0:19:00.88,Narrow BRABO,,0,0,0,,Parece que são gorilas!{beating their chest}
+Dialogue: 0,0:19:01.49,0:19:03.38,Narrow BRABO,,0,0,0,,Eles também estão deste lado!
+Dialogue: 0,0:19:04.04,0:19:05.12,Narrow BRABO,,0,0,0,,E desse também!
+Dialogue: 0,0:19:05.76,0:19:07.35,Narrow BRABO,,0,0,0,,Estamos cercados!
+Dialogue: 0,0:19:07.35,0:19:08.32,Narrow BRABO,,0,0,0,,Acalme-se!
+Dialogue: 0,0:19:41.16,0:19:44.00,Narrow BRABO,,0,0,0,,Droga, está brincando comigo?! Vou atirar em cada um deles!
+Dialogue: 0,0:19:46.65,0:19:49.93,Narrow BRABO,,0,0,0,,Deixe alguns vivos! Ou isso será ruim para os negócios!
+Dialogue: 0,0:20:01.00,0:20:04.34,Narrow BRABO,,0,0,0,,Parem com isso!\N Eu estou ficando louca!
+Dialogue: 0,0:20:05.05,0:20:06.16,Narrow BRABO,,0,0,0,,Esta é a minha chance!
+Dialogue: 0,0:20:16.34,0:20:18.53,Narrow BRABO,,0,0,0,,Depressa! Atire naquele leão branco!
+Dialogue: 0,0:20:18.89,0:20:20.65,Narrow BRABO,,0,0,0,,Vamos em frente!
+Dialogue: 0,0:20:20.65,0:20:22.48,Narrow BRABO,,0,0,0,,Me dê esse bônus!
 Dialogue: 0,0:20:28.34,0:20:29.15,Narrow BRABO,,0,0,0,,Garu!
-Dialogue: 0,0:20:35.61,0:20:36.37,Narrow BRABO,,0,0,0,,Come here.
-Dialogue: 0,0:20:39.67,0:20:40.52,Narrow BRABO,,0,0,0,,Damn it!
-Dialogue: 0,0:20:45.60,0:20:48.19,Narrow BRABO,,0,0,0,,D-Don't... don't come any closer!
-Dialogue: 0,0:20:49.94,0:20:52.44,Narrow BRABO,,0,0,0,,I-I'm out of bullets!
-Dialogue: 0,0:21:19.71,0:21:21.23,Narrow BRABO,,0,0,0,,We did it!
-Dialogue: 0,0:21:37.60,0:21:39.60,Narrow BRABO,,0,0,0,,Silver! You came\N for them after all!
-Dialogue: 0,0:21:39.60,0:21:41.65,Narrow BRABO,,0,0,0,,I never could have\N done this myself.
-Dialogue: 0,0:21:41.65,0:21:44.08,Narrow BRABO,,0,0,0,,It is{\i1} I {\i0}who is in {\i1}your{\i0} debt.
-Dialogue: 0,0:21:44.08,0:21:50.09,Narrow BRABO,,0,0,0,,When you helped us, even though you have\N no relation to us, we just had to do our best.
-Dialogue: 0,0:21:50.78,0:21:53.04,Narrow BRABO,,0,0,0,,You had to do your best?
-Dialogue: 0,0:21:53.96,0:21:58.00,Narrow BRABO,,0,0,0,,I'm neither a boss nor\N a king, I'm just a leader.
-Dialogue: 0,0:21:58.37,0:21:59.46,Narrow BRABO,,0,0,0,,A leader?
-Dialogue: 0,0:21:59.95,0:22:06.54,Narrow BRABO,,0,0,0,,A true leader recognizes everyone's\Npotential. All he does is help them realize it.{ というものはみんなが自分の仕事と義務を分かってくれるように手助けするだけだ }
-Dialogue: 0,0:22:06.54,0:22:08.29,Narrow BRABO,,0,0,0,,All to protect his pack.
-Dialogue: 0,0:22:14.96,0:22:16.44,Narrow BRABO,,0,0,0,,You still want to go?
-Dialogue: 0,0:22:16.44,0:22:17.90,Narrow BRABO,,0,0,0,,Thank you for everything.
-Dialogue: 0,0:22:17.90,0:22:22.34,Narrow BRABO,,0,0,0,,Don't mention it. You know, I'd still love\N to see Panja's Jungle myself one day.
-Dialogue: 0,0:22:22.34,0:22:24.83,Narrow BRABO,,0,0,0,,Of course. \NYou're all welcome.
-Dialogue: 0,0:22:25.42,0:22:30.29,Narrow BRABO,,0,0,0,,You are exactly as I\N imagined your father to be.
-Dialogue: 0,0:22:32.53,0:22:33.39,Narrow BRABO,,0,0,0,,Goodbye!
-Dialogue: 0,0:22:44.52,0:22:47.69,Narrow BRABO,,0,0,0,,Not a boss nor a king,\N but a leader...
-Dialogue: 0,0:22:47.69,0:22:49.69,Narrow BRABO,,0,0,0,,Thank you, Silver.
-Dialogue: 0,0:23:02.94,0:23:05.65,Narrow BRABO,,0,0,0,,{\blur0.5\fs36\pos(203,77)}{\fade(1000,0)\c&HB8CDD9&}Episode 21
-Dialogue: 0,0:23:02.94,0:23:05.65,Narrow BRABO,,0,0,0,,{\blur0.5\fs36\pos(495,77)}{\fade(1000,0)\c&HB8CDD9&}Preview
-Dialogue: 0,0:23:02.94,0:23:05.65,Narrow BRABO,,0,0,0,,{\blur0.5\fs56\pos(317,348)}{\fade(1000,0)\c&HB8CDD9&}Homecoming
-Dialogue: 0,0:23:05.65,0:23:09.12,Narrow BRABO,,0,0,0,,I finally have what it\N takes to protect my jungle,
-Dialogue: 0,0:23:09.12,0:23:13.05,Narrow BRABO,,0,0,0,,for I know of a force\Neven greater than myself!
-Dialogue: 0,0:23:13.05,0:23:16.98,Narrow BRABO,,0,0,0,,Next time on Jungle Emperor:\N Episode 21: Homecoming.
-Dialogue: 0,0:23:16.98,0:23:19.92,Narrow BRABO,,0,0,0,,Everyone, please give me a\N chance to protect the jungle!
+Dialogue: 0,0:20:35.61,0:20:36.37,Narrow BRABO,,0,0,0,,Venha para cá.
+Dialogue: 0,0:20:39.67,0:20:40.52,Narrow BRABO,,0,0,0,,Que droga!
+Dialogue: 0,0:20:45.60,0:20:48.19,Narrow BRABO,,0,0,0,,N-Não... não chegue mais perto!
+Dialogue: 0,0:20:49.94,0:20:52.44,Narrow BRABO,,0,0,0,,Eu não tenho mais\N nenhuma munição!
+Dialogue: 0,0:21:19.71,0:21:21.23,Narrow BRABO,,0,0,0,,Nós conseguimos!
+Dialogue: 0,0:21:37.60,0:21:39.60,Narrow BRABO,,0,0,0,,Silver! No fim das contas, você veio buscá-los!
+Dialogue: 0,0:21:39.60,0:21:41.65,Narrow BRABO,,0,0,0,,Eu nunca teria conseguido fazer isso sozinho.
+Dialogue: 0,0:21:41.65,0:21:44.08,Narrow BRABO,,0,0,0,,É{\i1} Eu {\i0}que estou em {\i1}sua{\i0} dívida. contigo
+Dialogue: 0,0:21:44.08,0:21:50.09,Narrow BRABO,,0,0,0,,{\fs35}Quando nos ajudaram, mesmo não tendo nenhuma ligação conosco, tivemos que dar o nosso melhor.
+Dialogue: 0,0:21:50.78,0:21:53.04,Narrow BRABO,,0,0,0,,Você tinha que dar\N o seu melhor?
+Dialogue: 0,0:21:53.96,0:21:58.00,Narrow BRABO,,0,0,0,,Não sou um chefe e nem um rei, sou apenas um líder.
+Dialogue: 0,0:21:58.37,0:21:59.46,Narrow BRABO,,0,0,0,,Um líder?
+Dialogue: 0,0:21:59.95,0:22:06.54,Narrow BRABO,,0,0,0,,{\fs34}Um verdadeiro líder reconhece o potencial de todos. Tudo o que ele faz é ajudá-los a perceber. {というものはみんなが自分の仕事と義務を分かってくれるように手助けするだけだ }
+Dialogue: 0,0:22:06.54,0:22:08.29,Narrow BRABO,,0,0,0,,Tudo isso para proteger o grupo.
+Dialogue: 0,0:22:14.96,0:22:16.44,Narrow BRABO,,0,0,0,,Você ainda quer ir embora?
+Dialogue: 0,0:22:16.44,0:22:17.90,Narrow BRABO,,0,0,0,,Obrigado por tudo.
+Dialogue: 0,0:22:17.90,0:22:22.34,Narrow BRABO,,0,0,0,,Não diga nada. Sabe, eu ainda gostaria muito de ver a selva de Panja um dia.
+Dialogue: 0,0:22:22.34,0:22:24.83,Narrow BRABO,,0,0,0,,É claro. Vocês são todos bem-vindos.
+Dialogue: 0,0:22:25.42,0:22:30.29,Narrow BRABO,,0,0,0,,Você é exatamente como eu imaginava que o seu pai fosse.
+Dialogue: 0,0:22:32.53,0:22:33.39,Narrow BRABO,,0,0,0,,Tchau!
+Dialogue: 0,0:22:44.52,0:22:47.69,Narrow BRABO,,0,0,0,,Não é um chefe e nem um rei, mas um líder...
+Dialogue: 0,0:22:47.69,0:22:49.69,Narrow BRABO,,0,0,0,,Obrigado, Silver.
+Dialogue: 0,0:23:02.94,0:23:05.65,Narrow BRABO,,0,0,0,,{\blur0.5\fs36\pos(203,77)}{\fade(1000,0)\c&HB8CDD9&}Episódio 21
+Dialogue: 0,0:23:02.94,0:23:05.65,Narrow BRABO,,0,0,0,,{\blur0.5\fs36\pos(495,77)}{\fade(1000,0)\c&HB8CDD9&}Prévia
+Dialogue: 0,0:23:02.94,0:23:05.65,Narrow BRABO,,0,0,0,,{\blur0.5\fs56\pos(317,348)}{\fade(1000,0)\c&HB8CDD9&}De volta ao lar
+Dialogue: 0,0:23:05.65,0:23:09.12,Narrow BRABO,,0,0,0,,Finalmente consegui o que era necessário para proteger minha selva,
+Dialogue: 0,0:23:09.12,0:23:13.05,Narrow BRABO,,0,0,0,,pois eu conheço uma força ainda maior do que eu!
+Dialogue: 0,0:23:13.05,0:23:16.98,Narrow BRABO,,0,0,0,,No próximo episódio de Jungle Taitei:\N Episódio 21: De volta ao lar
+Dialogue: 0,0:23:16.98,0:23:19.92,Narrow BRABO,,0,0,0,,Pessoal, por favor, me deem uma chance de proteger a selva!
